@@ -4,12 +4,10 @@
 - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me: birghisanteodor@gmail.com
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<summary>:zap: GitHub Stats</summary>
+<img align="left" alt="Teodor's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TeodorBirghisan&show_icons=true&hide_border=true" />
 
-  <img align="left" alt="Teodor's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TeodorBirghisan&show_icons=true&hide_border=true" />
-
-</details>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
 
 <!---
 TeodorBirghisan/TeodorBirghisan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
