@@ -58,7 +58,7 @@ I specialize in creating scalable cloud infrastructure, enabling seamless automa
   
   <div style="display: flex; gap: 10px; margin-left: 10px;">
   <a href="mailto:birghisanteodor@gmail.com">
-    <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
+    <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 
   <a href="https://www.linkedin.com/in/teodor-birghisan-5585881b8/">
