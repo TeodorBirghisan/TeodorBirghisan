@@ -18,8 +18,9 @@
 I'm a **DevOps / Cloud Engineer** focused on **Azure**, **Terraform**, and **Kubernetes**. I build scalable cloud infrastructure and CI/CD pipelines that make software delivery fast, repeatable, and boring — in the best possible way.
 
 - ☁️ I turn manual, error-prone processes into automated, version-controlled infrastructure.
-- 📚 Currently going deep on DevOps best practices, IaC, and platform engineering.
+- 💻 I also build the software that runs on it — services and full-stack apps in Go, Python, C#, and TypeScript.
 - 🏠 Off the clock, I run a self-hosted homelab where I break things on purpose to learn how they really work.
+- 📚 Currently going deep on DevOps best practices, IaC, and platform engineering.
 
 ## 🛠️ Tech Stack
 
@@ -39,8 +40,32 @@ I'm a **DevOps / Cloud Engineer** focused on **Azure**, **Terraform**, and **Kub
 ![Azure DevOps Pipelines](https://img.shields.io/badge/Azure%20DevOps%20Pipelines-2560E0?style=for-the-badge&logo=azure-pipelines&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-**Scripting & Languages**
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+**Frameworks & Runtimes**
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+**Homelab & Networking**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white)
+
+## 🏠 Homelab
+
+My homelab is where the DevOps theory meets real hardware — a personal platform for running things properly, not just following a tutorial.
+
+- 🐳 **Self-hosted services** running as Docker containers, deployed and reverse-proxied like production.
+- ☸️ **A home Kubernetes cluster** for practising orchestration, GitOps, and everything that breaks along the way.
+- 🔒 **Tailscale** for secure, zero-config access to everything, wherever I am.
+- 📈 **Monitoring & alerting** so the lab tells me when something's wrong before I find out the hard way.
