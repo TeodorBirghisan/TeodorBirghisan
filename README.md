@@ -1,68 +1,87 @@
 <div align="center">
-  <img src="./icons/github-header-image.png" alt="Header" style="width:100%;">
+  <img src="./icons/github-header-image.png" alt="Teodor Birghisan — Cloud & DevOps Engineer" width="100%">
 </div>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <img src="https://komarev.com/ghpvc/?username=TeodorBirghisan&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
-  
-  <img src="https://readme-jokes.vercel.app/api" alt="Random Joke" style="height:150px;">
-
-  <a href="https://github.com/TeodorBirghisan">
-    <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
-  </a>
+<div align="center">
+  <h3>Cloud &amp; DevOps Engineer — building scalable, automated infrastructure on Azure</h3>
 </div>
 
-## <img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzJ4NXk5bXZtb2c5b2VoZmNwbGUxc3N1Yjd4M3ZqeW1vcWo4MTdjciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/Kfl09udXYhbjajJwEt/giphy.gif" width="50" /> About Me
+<div align="center">
+  <a href="https://www.linkedin.com/in/teodor-birghisan-5585881b8/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:birghisanteodor@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/TeodorBirghisan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <img src="https://komarev.com/ghpvc/?username=TeodorBirghisan&color=dc143c&style=for-the-badge&label=Profile+Views" alt="Profile Views">
+</div>
 
-I'm a **DevOps Engineer** driven by a passion for **Azure**, **Terraform**, **Kubernetes**, **Pipelines**, **Docker**, and developing **automation scripts**.
-I specialize in creating scalable cloud infrastructure, enabling seamless automation, and developing robust CI/CD pipelines to accelerate software delivery.
+## 👋 About Me
 
-- 🌐 I'm currently working on **understanding all the depths of DevOps tools and best practices**
+I'm a **DevOps / Cloud Engineer** focused on **Azure**, **Terraform**, and **Kubernetes**. I build scalable cloud infrastructure and CI/CD pipelines that make software delivery fast, repeatable, and boring — in the best possible way.
 
-- 🎯 **Join me** as I share my journey, insights, and lessons learned in mastering the DevOps landscape.
+- ☁️ I turn manual, error-prone processes into automated, version-controlled infrastructure.
+- 💻 I also build the software that runs on it — services and full-stack apps in Go, Python, C#, and TypeScript.
+- 🏠 Off the clock, I run a self-hosted homelab where I break things on purpose to learn how they really work.
+- 📚 Currently going deep on DevOps best practices, IaC, and platform engineering.
 
-- 💡 Together, we can create efficient, scalable, and automated solutions!
+## 🛠️ Tech Stack
 
-<h2>
-  <img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzZxOHJhbTd4aGQzaXY4cHlpbWpuaGtsM3N0NTZubmEwd3dlNng2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SvllNdiFLPT0Z1SWoZ/giphy.gif" width="50"/> Tech Stack
-</h2>
+**Cloud & IaC**
 
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+**Containers & Orchestration**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+
+**CI/CD**
+
 ![Azure DevOps Pipelines](https://img.shields.io/badge/Azure%20DevOps%20Pipelines-2560E0?style=for-the-badge&logo=azure-pipelines&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+**Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
+**Frameworks & Runtimes**
 
-<h2>
-  <img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHBvOW5ycjYzODUxdndldGU4ZWJlenRvdXI3N2F6cXZuOGM0em1zYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZstgdANGanwCu3IaWu/giphy.gif" width="50"/>GitHub Stats
-</h2>
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-<div>
+**Homelab & Networking**
 
-  ![](https://github-readme-stats.vercel.app/api?username=TeodorBirghisan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=TeodorBirghisan&theme=tokyonight&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TeodorBirghisan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white)
+
+## 🏠 Homelab
+
+My homelab is where the DevOps theory meets real hardware — a personal platform for running things properly.
+
+- 🐳 **Self-hosted services** running as Docker containers, deployed and reverse-proxied like production.
+- ☸️ **A home Kubernetes cluster** for practising orchestration, GitOps, and everything that breaks along the way.
+- 🔒 **Tailscale** for secure, zero-config access to everything, wherever I am.
+- 📈 **Monitoring & alerting** so the lab tells me when something's wrong before I find out the hard way.
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TeodorBirghisan&theme=tokyonight&hide_border=false)
 
 </div>
 
-<div align="left">
-  <h2>
-    <img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXQ2a2Z2a2Fkd3dxMXFiMGdsY3g0dGN1endzaHc3b2x6b21pdmE0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gX0dsOUA4qs3ZzyngU/giphy.gif" width="50"/>
-    Contact Me
-  </h2>
-  <p style="margin-left: 10px;"><i>You can reach out to me via:</i></p>
-  
-  <div style="display: flex; gap: 10px; margin-left: 10px;">
-  <a href="mailto:birghisanteodor@gmail.com">
-    <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
+## 📊 GitHub Metrics
 
-  <a href="https://www.linkedin.com/in/teodor-birghisan-5585881b8/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="110"/>
-  </a>
-  </div>
+<div align="center">
+  <img src="./github-metrics.svg" alt="GitHub metrics">
 </div>
+
+<sub>Auto-generated daily by a GitHub Action — see <a href="./.github/workflows/metrics.yml"><code>.github/workflows/metrics.yml</code></a>.</sub>
