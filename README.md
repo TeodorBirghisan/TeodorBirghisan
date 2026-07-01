@@ -74,9 +74,7 @@ My homelab is where the DevOps theory meets real hardware — a personal platfor
 
 <div align="center">
 
-  ![Teodor's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeodorBirghisan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
-
-  ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TeodorBirghisan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TeodorBirghisan&theme=tokyonight&hide_border=false)
 
 </div>
 
