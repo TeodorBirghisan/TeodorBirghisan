@@ -1,0 +1,42 @@
+name: GitHub metrics
+
+on:
+  # Refresh once a day
+  schedule:
+    - cron: "17 3 * * *"
+  # Allow manual runs from the Actions tab (once this is on the default branch)
+  workflow_dispatch:
+  # TEMPORARY: lets us preview the generated SVG in the open PR.
+  # Remove this whole `push:` block before merging to main.
+  push:
+    branches:
+      - feature/readme-sharpened-pro
+    paths-ignore:
+      - "github-metrics.svg"
+
+# Needed so GITHUB_TOKEN can commit the generated SVG back to the repo
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
+        with:
+          # PAT used only to READ your GitHub data (create as repo secret METRICS_TOKEN)
+          token: ${{ secrets.METRICS_TOKEN }}
+          # Built-in token COMMITS the SVG; does not retrigger this workflow
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+
+          user: TeodorBirghisan
+          filename: github-metrics.svg
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Europe/Bucharest
+
+          # Language breakdown (replaces the old top-langs card)
+          plugin_languages: yes
+          plugin_languages_details: percentage
+          plugin_languages_limit: 8

@@ -69,3 +69,11 @@ My homelab is where the DevOps theory meets real hardware — a personal platfor
 - ☸️ **A home Kubernetes cluster** for practising orchestration, GitOps, and everything that breaks along the way.
 - 🔒 **Tailscale** for secure, zero-config access to everything, wherever I am.
 - 📈 **Monitoring & alerting** so the lab tells me when something's wrong before I find out the hard way.
+
+## 📊 GitHub Metrics
+
+<div align="center">
+  <img src="./github-metrics.svg" alt="GitHub metrics">
+</div>
+
+<sub>Auto-generated daily by a GitHub Action — see <a href="./.github/workflows/metrics.yml"><code>.github/workflows/metrics.yml</code></a>.</sub>
