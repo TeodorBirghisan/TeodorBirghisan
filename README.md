@@ -63,7 +63,7 @@ I'm a **DevOps / Cloud Engineer** focused on **Azure**, **Terraform**, and **Kub
 
 ## 🏠 Homelab
 
-My homelab is where the DevOps theory meets real hardware — a personal platform for running things properly, not just following a tutorial.
+My homelab is where the DevOps theory meets real hardware — a personal platform for running things properly.
 
 - 🐳 **Self-hosted services** running as Docker containers, deployed and reverse-proxied like production.
 - ☸️ **A home Kubernetes cluster** for practising orchestration, GitOps, and everything that breaks along the way.
