@@ -6,13 +6,6 @@ on:
     - cron: "17 3 * * *"
   # Allow manual runs from the Actions tab (once this is on the default branch)
   workflow_dispatch:
-  # TEMPORARY: lets us preview the generated SVG in the open PR.
-  # Remove this whole `push:` block before merging to main.
-  push:
-    branches:
-      - feature/readme-sharpened-pro
-    paths-ignore:
-      - "github-metrics.svg"
 
 # Needed so GITHUB_TOKEN can commit the generated SVG back to the repo
 permissions:

@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="./icons/github-header-image.png" alt="Teodor Birghisan — Cloud & DevOps Engineer" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./icons/github-header-image.png">
+    <source media="(prefers-color-scheme: light)" srcset="./icons/github-header-image-light.png">
+    <img src="./icons/github-header-image.png" alt="Teodor Birghisan — Cloud & DevOps Engineer" width="100%">
+  </picture>
 </div>
 
 <div align="center">
