@@ -14,6 +14,10 @@ permissions:
 jobs:
   metrics:
     runs-on: ubuntu-latest
+    # Scheduled, so a hang is not a one-off: it fires again tomorrow and the
+    # stuck runs stack up. Without this, each one sits on GitHub's 6-hour
+    # default. The job normally takes a couple of minutes.
+    timeout-minutes: 15
     steps:
       - name: Generate metrics
         uses: lowlighter/metrics@latest
